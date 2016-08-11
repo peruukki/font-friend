@@ -1,0 +1,4 @@
+# This file lists legal copyright authors, see CONTRIBUTORS.txt for humans
+
+Soma Design
+Google, Inc.
