@@ -1,0 +1,5 @@
+# This file lists people who contributed to this project, 
+# see AUTHORS.txt for copyright authors
+
+Matt Wiebe (https://twitter.com/mattwiebe)
+Dave Crossland (https://twitter.com/davelab6)
