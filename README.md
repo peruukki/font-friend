@@ -5,7 +5,11 @@ Matt Wiebe made this bookmarklet in 2009 for web designers who want to rapidly c
 Trying to develop good-looking font stacks is what prompted its creation, and he thought he’d share with the web design community.
 Dave Crossland tweaked it in 2016 to work, as its previous web host (Google Code) went offline.
 
-Live Home Page: <https://davelab6.github.io/font-friend>
+**This is a fork of [davelab6/font-friend](https://github.com/davelab6/font-friend) that works on sites that use jQuery 3.**
+The upstream repository uses the [`.size()` method](https://api.jquery.com/size/) that has been removed in jQuery 3.0, so
+it has been replaced with the `.length` property in this repository.
+
+Live Home Page: <https://peruukki.github.io/font-friend> (upstream <https://davelab6.github.io/font-friend>)
 
 Original Project Page: <http://somadesign.ca/projects/fontfriend>
 
